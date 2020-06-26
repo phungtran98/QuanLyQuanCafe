@@ -47,5 +47,26 @@ namespace QLQuanCaffe
         {
             return AccountDAO.Instance.Login(user, pass);
         }
+
+       
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+
+            string username = txtUsername.Text;
+            string password = txtPassword.Text;
+            if (Login(username, password))
+            {
+                frTableManager f = new frTableManager();
+                this.Hide();
+                f.ShowDialog();
+                this.Show();
+            }
+            else
+                MessageBox.Show("Sai tài khoản hoặc mật khẩu");
+        }
+
+      
+
+       
     }
 }

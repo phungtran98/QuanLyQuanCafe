@@ -10,3 +10,15 @@ D:\phatrienungdungwindows\QLQuanCaffe\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCa
 D:\phatrienungdungwindows\QLQuanCaffe\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.frTableManager.resources
 D:\phatrienungdungwindows\QLQuanCaffe\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.frAccountProfile.resources
 D:\phatrienungdungwindows\QLQuanCaffe\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.frAdmin.resources
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\bin\Debug\QLQuanCaffe.exe.config
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.exe
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\bin\Debug\QLQuanCaffe.exe
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\bin\Debug\QLQuanCaffe.pdb
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.csprojResolveAssemblyReference.cache
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.frAccountProfile.resources
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.frAdmin.resources
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.frLogin.resources
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.frTableManager.resources
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.Properties.Resources.resources
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.csproj.GenerateResource.Cache
+D:\phatrienungdungwindows\DoAn\QLQuanCaffe\QLQuanCaffe\obj\Debug\QLQuanCaffe.pdb

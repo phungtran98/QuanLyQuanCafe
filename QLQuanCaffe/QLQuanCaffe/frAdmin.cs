@@ -17,7 +17,17 @@ namespace QLQuanCaffe
         public frAdmin()
         {
             InitializeComponent();
+          
         }
+
+        private void frAdmin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+       
+
+       
 
      
     }

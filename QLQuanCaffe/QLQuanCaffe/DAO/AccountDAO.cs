@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,7 +21,11 @@ namespace QLQuanCaffe.DAO
 
         public bool Login(string user, string pass)
         {
-            return false;
+            string query = "USP_Login @userName , @passWord";
+            DataTable result = DataProvider.Instance.ExecuteQuey(query, new object[]{user,pass});
+
+            return result.Rows.Count > 0;
+
         }
 
 
